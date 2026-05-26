@@ -24,5 +24,7 @@ public class App {
 
         System.out.println(knight);
 
+        Hero.printHeroesCreated();
+
     }
 }
